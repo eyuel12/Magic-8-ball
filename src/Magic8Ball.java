@@ -6,8 +6,8 @@ public class Magic8Ball {
 
         Scanner randomChoice = new Scanner(System.in);
 
-        String positive2 = ("Yes");
-        String negative2 = ("No");
+        String positive1 = ("Yes");
+        String negative1 = ("No");
         String positive2 = ("Absolutely not");
         String negative2 = ("Absolutely right");
         String positive3 = ("Most likely");
